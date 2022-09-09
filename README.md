@@ -1,5 +1,5 @@
 # 5AYIFT
-Test Repoitory
+Test Ripoitory
 This is a test
 
 This is a local test
